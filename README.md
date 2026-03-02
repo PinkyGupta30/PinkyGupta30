@@ -40,21 +40,10 @@
 ---
 
 ### 📌 Featured Projects
-
-#### 🛒 [E-Commerce Platform – Microservices Architecture](#)
-> Java | Spring Boot | Microservices | Kafka | Redis | Docker | AWS | JWT
-- Scalable e-commerce backend with separate User, Product, Order & Payment microservices
-- Kafka for async communication, Redis caching, JWT auth, deployed on AWS EC2
-
-#### 🏢 [Employee Management System – Spring Boot REST API](#)
-> Java | Spring Boot | Spring Security | JWT | MySQL | JUnit | Mockito | Swagger
-- Full HR backend with employee onboarding, attendance, payroll & role-based access
-- 85%+ test coverage with JUnit 5 & Mockito, Swagger API documentation
-
-#### 🔔 [Real-Time Notification & Alert System](#)
-> Java | Spring Boot | Apache Kafka | WebSocket | Docker | MySQL
-- Event-driven notification system supporting email, SMS & in-app alerts
-- WebSocket for real-time push, Kafka as message broker, Docker Compose deployment
+#### 🍕 [Food Ordering System – Microservices Architecture](https://github.com/PinkyGupta30/Food-Ordering-System)
+> Java | Spring Boot | Microservices | Eureka | API Gateway | Kafka | JWT | MySQL
+- Microservices-based food ordering system with User, Restaurant & Order services
+- Kafka for async order processing, JWT authentication, tested via Postman
 
 ---
 
